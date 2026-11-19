@@ -2,3 +2,6 @@ intial project
 Create login page
 Add username and password
 Add login button
+Create signup page
+Create profile page
+Add profile details
